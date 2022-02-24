@@ -1,10 +1,14 @@
 # 🎧 Cloud DevOps Engineer
 
 ***"스프링 클라우드 공부중 입니다."***
-
+<!-- -->
+[개인블로그](https://developer-jh.tistory.com/)
+<!-- -->
+[README.md 작성요령](https://developer-jh.tistory.com/13)
+<!-- -->
 - 📫 How to reach me: kispc23@naver.com
 
-[개발자 공부방](https://developer-jh.tistory.com/)
+
 <!--
 **JHGIVENCHY/JHGIVENCHY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
