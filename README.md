@@ -1,6 +1,6 @@
-# 🎧 Cloud DevOps Engineer
+# 🎧 Cloud DevOps Engineer {수정 필요함.
 
-***"클라우드 인프라 자동화와 클라우드 마이그레이션에 집중하고 있습니다."***
+***"스프링 클라우드 공부중 입니다."***
 
 <img src="https://img.shields.io/badge/Terraform-00B95F?style=flat-square&logo=Terraform&logoColor=7B42BC"> <img src="https://img.shields.io/badge/Consul-00B95F?style=flat-square&logo=Consul&logoColor=F24C53"> <img src="https://img.shields.io/badge/Jenkins-00B95F?style=flat-square&logo=Jenkins&logoColor=D24939"> <img src="https://img.shields.io/badge/Grafana-00B95F?style=flat-square&logo=Grafana&logoColor=F46800"> <img src="https://img.shields.io/badge/Docker-00B95F?style=flat-square&logo=Docker&logoColor=2496ED">
 <br/>
