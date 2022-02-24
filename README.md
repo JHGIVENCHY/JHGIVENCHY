@@ -3,9 +3,6 @@
 ***"스프링 클라우드 공부중 입니다."***
 
 - 📫 How to reach me: kispc23@naver.com
-
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=orpsh1941&color=dark)](https://velog.io/@orpsh1941/Azure-Landing-Zone)
 <!--
 **JHGIVENCHY/JHGIVENCHY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
