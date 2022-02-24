@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=orpsh1941&color=dark)](https://velog.io/@orpsh1941/Azure-Landing-Zone)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinhyeongPark&show_icons=true&theme=vue-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHGIVENCHY&show_icons=true&theme=vue-dark)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=orpsh1941)](https://solved.ac/orpsh1941)
