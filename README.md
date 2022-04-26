@@ -1,6 +1,5 @@
 # 🎧 JaeHong Jeong
 
-***"스프링 클라우드 공부중 입니다."***
 <!-- -->
 [개인블로그](https://developer-jh.tistory.com/)
 <!-- -->
