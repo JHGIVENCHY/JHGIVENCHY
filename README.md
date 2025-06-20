@@ -3,8 +3,6 @@
 <!-- -->
 [개인블로그](https://developer-jh.tistory.com/)
 <!-- -->
-[README.md 작성요령](https://developer-jh.tistory.com/13)
-<!-- -->
 - 📫 How to reach me: kispc23@naver.com
 
 
